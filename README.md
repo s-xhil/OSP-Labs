@@ -1,2 +1,2 @@
 # OSP-Labs
-For answers for these labs please contact me at sxhil.git@gmail.com
+For High Distinction answers/solutions for these labs please contact me at sxhil.git@gmail.com
